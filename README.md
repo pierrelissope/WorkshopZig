@@ -20,8 +20,6 @@ All the required information to install dependencies can be found in [SETUP.md](
 
 > 💡 We recommend you to follow the [Getting started](https://ziglang.org/learn/getting-started/) for this workshop.
 
-# Introduction to Zig
-
 ### Step 1 - Hello World! in Zig
 
 > ❗ We strongly advise you to use the resources given for this exercise.
