@@ -101,8 +101,8 @@ Display the result of the calculation in your terminal.
 
 #### Resources
  - [Errors](https://ziglang.org/documentation/master/#Errors)
- - [Memory] (https://zig.guide/standard-library/allocators)
- - [ArrayList] (https://zig.guide/standard-library/arraylist)
+ - [Memory](https://zig.guide/standard-library/allocators)
+ - [ArrayList](https://zig.guide/standard-library/arraylist)
 
 ### Step 5 - Simple Todo List in Zig
 
