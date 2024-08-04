@@ -18,7 +18,6 @@ Each todo has:
 
 ### User Interaction
 
-    ```sh
     ./zig-out/bin/main
 
     Choose an action:
@@ -29,11 +28,9 @@ Each todo has:
     > 1
     Enter name: Buy groceries
     Enter description: Milk, eggs, and bread
-    ```
 
 ### Output
 
-    ```sh
     Todo added successfully.
     Choose an action:
     1. Add Todo
@@ -48,7 +45,6 @@ Each todo has:
     3. View Todos
     4. Exit
     > 4
-    ```
 
     > 💡 Pay attention to your error handling !
 
