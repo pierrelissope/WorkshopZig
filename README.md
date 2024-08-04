@@ -107,5 +107,5 @@ between two values that must be retrieved one after the other from the user's in
 Display the result of the calculation in your terminal.
 
 #### Resources
- - 
+ - [Errors](https://ziglang.org/documentation/master/#Errors)
 
