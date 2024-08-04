@@ -104,7 +104,7 @@ Display the result of the calculation in your terminal.
  - [Memory] (https://zig.guide/standard-library/allocators)
  - [ArrayList] (https://zig.guide/standard-library/arraylist)
 
-### Step 3 - Simple Todo List in Zig
+### Step 5 - Simple Todo List in Zig
 
 #### Objective
 
