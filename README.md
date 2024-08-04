@@ -52,14 +52,7 @@ This function must return true if the word given in parameter is a palindrome an
  - [What is a palindrome ?](https://www.wikiwand.com/en/Palindrome)
  - [New function](https://ziglang.org/documentation/master/#Functions)
  - [The types in Zig](https://ziglang.org/documentation/master/#Primitive-Types)
-
-
-#### Resources
- - [What is a palindrome ?](https://www.wikiwand.com/en/Palindrome)
- - [New function](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
- - [The `bool` in Rust](https://doc.rust-lang.org/std/primitive.bool.html)
-
-> 💡 To easily test your functions during this workshop, we advise you to look at this tool. [`assert_eq`](https://doc.rust-lang.org/std/macro.assert_eq.html)
+ - [Control_Structures](https://zig.guide/language-basics/while-loops)
 
 ### Step 3 - Fibonacci sequence
 
@@ -108,4 +101,21 @@ Display the result of the calculation in your terminal.
 
 #### Resources
  - [Errors](https://ziglang.org/documentation/master/#Errors)
+ - [Memory] (https://zig.guide/standard-library/allocators)
+ - [ArrayList] (https://zig.guide/standard-library/arraylist)
 
+### Step 3 - Simple Todo List in Zig
+
+## Objective
+
+Create a command-line todo list application where you can:
+
+    - Add a new todo
+    - Delete a todo by ID
+    - View all todos
+
+Each todo has:
+
+    - id (auto-incremented)
+    - name
+    - description
