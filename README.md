@@ -106,7 +106,7 @@ Display the result of the calculation in your terminal.
 
 ### Step 3 - Simple Todo List in Zig
 
-## Objective
+#### Objective
 
 Create a command-line todo list application where you can:
 
