@@ -119,3 +119,13 @@ Each todo has:
     - id (auto-incremented)
     - name
     - description
+
+### Step 5 - Use your C code
+
+Zig provides the command zig translate-c for automatic translation from C source code
+
+#### Resources
+ - [Translate-C](https://zig.guide/working-with-c/translate-c)
+ - [cImport](https://zig.guide/working-with-c/c-import)
+ - [LinkLibC](https://zig.guide/working-with-c/linking-libc)
+ 
