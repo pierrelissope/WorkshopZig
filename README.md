@@ -1,4 +1,4 @@
-# Workshop 13 - Introduction to Rust
+# Workshop 13 - Introduction to Zig
 
 ✔ The fundamentals of Zig.
 
