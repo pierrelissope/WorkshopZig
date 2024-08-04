@@ -1,20 +1,4 @@
-# WorkshopZig
-
-Welcome to this introductory workshop on Zig! Zig is a modern programming language that emphasizes robustness, performance and clarity. Today, you'll learn how to install Zig, create your first project, and discover the language's key concepts by creating a palindrome detection program.
-
-## Prerequisites
-
-- Basic programming skills (C, C++, or any other language)
-- A computer with Internet access
-
-## Workshop objectives
-
-- Install Zig on your machine
-- Initialize a Zig project
-- Understand the basics of the Zig language
-- Create a palindrome detection program
-
-## Installing Zig
+# Installing Zig
 
 ### For Fedora
 
